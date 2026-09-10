@@ -138,6 +138,7 @@ if (form) {
     const data = Object.fromEntries(new FormData(form).entries());
 
     const payload = {
+      date: new Date().toLocaleString("en-IN"),
       name: data.name || "",
       phone: data.phone || "",
       service: data.service || "",
