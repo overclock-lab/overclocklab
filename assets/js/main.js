@@ -1,10 +1,10 @@
 
 const BRAND = {
-  name: "Overclock Labs",
+  name: "Overcloud Labs",
   tagline: "Build. Automate. Outpace.",
   Location: "Munirka, New Delhi",
   Whatsapp: "91 9241597137",
-  Email: "mail.getlivem@gmail.com"
+  Email: "contact@overcloudlabs.com"
   };
 
 const navItems = [
@@ -78,7 +78,7 @@ function floating(){
   return `
   <div class="float-actions">
     <a class="float-btn meeting-label" href="enquiry.html?type=consultation">▣ <span>Request a Consultation</span></a>
-    <a class="float-btn whatsapp" href="https://wa.me/${BRAND.whatsapp}?text=${encodeURIComponent("Hello Overclock Labs, I would like to discuss a project.")}" target="_blank" rel="noopener" aria-label="WhatsApp">◔</a>
+    <a class="float-btn whatsapp" href="https://wa.me/${BRAND.whatsapp}?text=${encodeURIComponent("Hello Overcloud Labs, I would like to discuss a project.")}" target="_blank" rel="noopener" aria-label="WhatsApp">◔</a>
   </div>`;
 }
 
@@ -127,7 +127,7 @@ function mount(){
   }
 }
 
-const LIVE = "https://cloud.activepieces.com/api/v1/webhooks/hGL9t9pV0LwdFXMvNyarQ";
+const LIVE ="https://cloud.activepieces.com/api/v1/webhooks/hGL9t9pV0LwdFXMvNyarQ";
 
 const form = document.getElementById("enquiryForm");
 
