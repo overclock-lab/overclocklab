@@ -60,8 +60,8 @@ function footer(){
       <div>
         <h4>Contact</h4>
         <a href="enquiry.html">Start an Enquiry</a>
-        <a href="mailto:${BRAND.Email}">${BRAND.Email}</a>
-        <a href="https://wa.me/${BRAND.whatsapp}" target="_blank" rel="noopener">WhatsApp: 8789105772</a>
+        <a href="mailto:${BRAND.Email}"target="_blank" rel="noopener">Email: contact@overcloudlabs.com</a></a>
+        <a href="https://wa.me/${BRAND.whatsapp}" target="_blank" rel="noopener">WhatsApp: 9241597137</a>
         <p>${BRAND.Location}, India</p>
       </div>
     </div>
