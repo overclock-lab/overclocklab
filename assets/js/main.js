@@ -44,8 +44,8 @@ function footer(){
       <div>
         <h4>Services</h4>
         <a href="website-design.html">Website Design & Hosting</a>
-        <a href="automation.html">n8n Automation</a>
-        <a href="query-processing.html">Query & Lead Automation</a>
+        <a href="automation.html">Quey Automation</a>
+        <a href="query-processing.html">Lead Processing</a>
         <a href="payment-links.html">Payment Links</a>
         <a href="video-editing.html">Video Editing</a>
       </div>
