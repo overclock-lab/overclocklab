@@ -90,7 +90,7 @@ li {
   margin: auto;
 }
 .section {
-  padding: 70px 0;
+  padding: 35px 0 55px;
 }
 .section-sm {
   padding: 60px 0;
@@ -829,7 +829,7 @@ h3 {
   font-size: 11px;
   letter-spacing: 3px;
   text-transform: uppercase;
-  margin-bottom: 25px;
+  margin-bottom: 20px;
 }
 
 .brand-list {
@@ -1801,7 +1801,7 @@ details p {
 .footer {
   background: #04101f;
   border-top: 1px solid var(--border);
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 .footer-grid {
@@ -1811,8 +1811,8 @@ details p {
     1fr
     1fr
     1fr;
-  gap: 20px;
-  padding-bottom: 30px;
+  gap: 10px;
+  padding-bottom: 10px;
 }
 
 .footer .logo {
