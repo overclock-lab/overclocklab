@@ -195,7 +195,7 @@ li {
    ========================================================= */
 
 .hero {
-  min-height: 600px;
+  min-height: 500px;
   display: flex;
   align-items: center;
   position: relative;
@@ -312,7 +312,7 @@ li {
 ================================ */
 
 .hero-stats-section {
-  padding: 28px 0 38px;
+  padding: 18px 0 38px;
 }
 .stats-intro {
   text-align: center;
@@ -334,14 +334,14 @@ li {
   content: "";
   position: absolute;
   right: 0;
-  top: 5px;
+  top: 2px;
   width: 1px;
   height: 55px;
   background: rgba(255,255,255,.12);
 }
 .hero-stat label {
   display: block;
-  margin-bottom: 4px;
+  margin-bottom: 2px;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: .1em;
@@ -357,7 +357,7 @@ li {
 }
 .hero-stat small {
   display: block;
-  margin-top: 4px;
+  margin-top: 2px;
   font-size: 10px;
   color: rgba(255,255,255,.62);
 }
@@ -1852,7 +1852,7 @@ details p {
 .footer-bottom .container {
   display: flex;
   justify-content: space-between;
-  gap: 10px;
+  gap: 5px;
 }
 
 /* =========================================================
