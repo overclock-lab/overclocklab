@@ -68,7 +68,7 @@ function footer(){
     <div class="footer-bottom">
       <div class="container">
         <span>© ${new Date().getFullYear()} ${BRAND.name}. All Rights Reserved.</span>
-        <span><a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a></span>
+        <span><a href="privacy.html">Privacy</a> <a href="terms.html">Terms</a></span>
       </div>
     </div>
   </footer>`;
